@@ -3,4 +3,4 @@
 https://youtu.be/thBAz3DoU9I
 
 ## 🎥 Demo Video
-[![Demo Video](https://img.youtube.com/vi/y3rIVFQIS1Q/maxresdefault.jpg)](https://youtu.be/thBAz3DoU9I)
+[![Demo Video](Steel The Monkey's trésor 썸네일.jpg)](https://youtu.be/thBAz3DoU9I)
