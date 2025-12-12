@@ -3,4 +3,4 @@
 https://youtu.be/thBAz3DoU9I
 
 ## 🎥 Demo Video
-![Steel The Monkey&#39;s trésor 썸네일](https://github.com/user-attachments/assets/5e3adacc-2691-4808-8e08-7dd1f00e7bcf)(https://youtu.be/thBAz3DoU9I)
+![Steel The Monkey&#39;s trésor 썸네일](https://youtu.be/thBAz3DoU9I)
